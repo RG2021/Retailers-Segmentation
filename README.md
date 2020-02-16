@@ -15,3 +15,7 @@ Segmenting various retailers in an area based on their sales data.
 #### 2. Pandas
 #### 3. Numpy
 #### 4. Matplotlib and Seaborn
+
+## Results
+#### 1. Segmented the retailers based on the uniqueness of the brand they are selling.
+#### 2. Also segmented them based on the price range they are selling each brand as compared to other retailers in the market.
